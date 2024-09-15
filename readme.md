@@ -1,9 +1,9 @@
 # Needs Serious Attention !!!
 
 
-This project is the experimental source code for the paper **"Quantitative Assessment of Muscle Fatigue Based on Improved Gramian Angular Difference Field"**, which has been submitted to IEEE SENSORS JOURNAL (under review).  
-For citation, please inform the author at **smaugfire@163.com**.
+This project is the experimental source code for the paper **"Quantitative Assessment of Muscle Fatigue Based on Improved Gramian Angular Difference Field"**, which has been accepted by IEEE SENSORS JOURNAL (Digital Object Identifier: 10.1109/JSEN.2024.3456479). 
 
+For citation, please follow the formal academic norms for citation without informing the author (email: smaugfire@163.com, 2330441@tongji.edu.cn).
 
 # 1. Environment Configuration
 
